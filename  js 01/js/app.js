@@ -5,4 +5,4 @@ const tax =1.10;
 let totalPrice = price*tax ;
 let priceAfter = Math.floor(totalPrice);
 
-alert(`${name}さんの合計金額は${priceAfter}円です`)
+alert(`${name}さんの合計金額は${priceAfter}円です`);
